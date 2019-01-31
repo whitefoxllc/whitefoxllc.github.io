@@ -1,0 +1,33 @@
+
+/*
+	tentative palette: bcabae, 716969, 333138, fffff2, 2f4858
+*/
+	html{
+		
+	}
+	
+	body {
+		width: 70%;
+		margin: 0 auto;
+		font-family: Georgia, serif;
+		background: #fffff2;
+	}
+	
+	h1 {
+		text-align: center;
+		font-size: 3em;
+		color: #2f4858;
+	}
+	
+	h2 {
+		text-indent: 10%;
+		color: #2f4858;
+	}
+	
+	h3 {
+		color: #716969;
+	}
+	
+	h4 {
+		text-align: center;
+	}
