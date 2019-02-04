@@ -23,11 +23,11 @@ var span = document.getElementsByClassName("close")[0];
 modalLaunchButton.onclick = function () {
     alert("triggered");
     myModal.style.display = "block";
-}
+};
 
 span.onclick = function () {
     myModal.style.display = "none";
-}
+};
 
 // When the user clicks anywhere outside of the modal, close it
 // window.onclick = function(event) {
